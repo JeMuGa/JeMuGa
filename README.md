@@ -6,11 +6,7 @@ Senior Frontend developer
 
 I'm a frontend developer who loves new technologies. My coding is primarily done with react.js, TypeScript and JavaScript.
 
-*   🌍  I'm based in Valencia - Spain
-*   ✉️  You can contact me at [jesus.munoz.garrido@gmail.com](mailto:jesus.munoz.garrido@gmail.com)
-*   🧠  I'm learning AWS
-*   🤝  I'm open to collaborating on Projects
-*   ⚡  I'm a ninja, shhh...
+*   ⚡  I'm a ninja too, shhh...
 
 ### Skills
 
