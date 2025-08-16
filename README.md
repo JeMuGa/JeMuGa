@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesus
 =============================================================================================================================
 
-Senior Frontend developer
+Software Developer
 -------------------------
 
-I'm a frontend developer who loves new technologies. My coding is primarily done with react.js, TypeScript and JavaScript.
+I'm a software developer specialiuzed in frontend who loves new technologies. My coding is primarily done with react.js, TypeScript and JavaScript.
 
 *   ⚡  I'm a ninja too, shhh...
 
